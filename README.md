@@ -1,7 +1,9 @@
 This API use MongoDB as database
 
 TO strart MongoDB server
-"cd\"\n
-"cd /Program Files/MongoDB/Server/3.6/bin"\n
+```
+"cd\"
+"cd /Program Files/MongoDB/Server/3.6/bin"
 "mongod.exe --dbpath /Users/young/mongo-data"
+```
 
