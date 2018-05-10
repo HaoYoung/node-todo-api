@@ -7,5 +7,7 @@ To strart MongoDB server
 "mongod.exe --dbpath /Users/young/mongo-data"
 ```
 
-[API Docs](http://mongodb.github.io/node-mongodb-native/3.0/api/)
+[MongoDB API Docs](http://mongodb.github.io/node-mongodb-native/3.0/api/)
+[Mongoose Docs](http://mongoosejs.com/docs/guide.html)
+
 
