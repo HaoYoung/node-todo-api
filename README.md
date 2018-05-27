@@ -11,4 +11,6 @@ mongod.exe --dbpath /Users/young/mongo-data
 
 [Mongoose Docs](http://mongoosejs.com/docs/guide.html)
 
+[JsonWebToken](https://jwt.io)
+
 
